@@ -861,6 +861,13 @@
   resolved "https://registry.yarnpkg.com/@gnosis.pm/safe-contracts/-/safe-contracts-1.3.0.tgz#316741a7690d8751a1f701538cfc9ec80866eedc"
   integrity sha512-1p+1HwGvxGUVzVkFjNzglwHrLNA67U/axP0Ct85FzzH8yhGJb4t9jDjPYocVMzLorDoWAfKicGy1akPY9jXRVw==
 
+"@gnosis.pm/safe-deployments@1.17.0":
+  version "1.17.0"
+  resolved "https://registry.yarnpkg.com/@gnosis.pm/safe-deployments/-/safe-deployments-1.17.0.tgz#52a7b0e75c08b4a829f491b594e2babbdd6606c5"
+  integrity sha512-vfl13IuSMqJZxTPraRcKZqJcaSCDWTt/JXH6VURa8LHMYATOqd96IGbqqOKRPAgSzAyXpA2thOD4YUQ0X8XKyQ==
+  dependencies:
+    semver "^7.3.7"
+
 "@gnosis.pm/safe-deployments@haqq-network/safe-deployments#main":
   version "1.16.0"
   resolved "https://codeload.github.com/haqq-network/safe-deployments/tar.gz/98d3340e7abd331622217f9721a03a5edc1f311f"
